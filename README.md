@@ -31,4 +31,4 @@ There are 10 types of programmers.
 
 Those who understand binary, and thoses who don't !
 
-<< [Philippe Meulemans](https://github.com/Laverdure77/markdown-challenge/blob/main/README.md) || [Raoni Gillet](https://github.com/GRaonix/markdown-challenge/blob/main/README.md) || [René](https://github.com/RouslanBoyko/markdown-challenge/blob/main/README.md) >>
+ [<< Philippe Meulemans](https://github.com/Laverdure77/markdown-challenge/blob/main/README.md) || [Raoni Gillet](https://github.com/GRaonix/markdown-challenge/blob/main/README.md) || [René >>](https://github.com/RouslanBoyko/markdown-challenge/blob/main/README.md)

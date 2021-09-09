@@ -16,6 +16,12 @@ _“Java is to JavaScript what car is to Carpet.” – Chris Heilmann_
 
 ## Hobbies
 
+1. Linux
+2. Movies
+⋅⋅1. Real Genius
+⋅⋅2. Hackers
+3. Pizzas
+
 This should contain a bullet list of your hobbies
 At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
 
@@ -31,4 +37,4 @@ There are 10 types of programmers.
 
 Those who understand binary, and thoses who don't !
 
-<< previous || Raoni Gillet || next >>
+<< [Gens1](https://www.google.com) || Raoni Gillet || [Gens2](https://www.google.com) >>

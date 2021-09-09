@@ -5,7 +5,7 @@ _“Java is to JavaScript what car is to Carpet.” – Chris Heilmann_
 
 ![Raoni Gillet](raoni_small.png)
 
-## Me, in one sentence
+## Me, the Linux fan
 
 | Tables        | Are           |
 | ------------- |:-------------:|

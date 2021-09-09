@@ -3,7 +3,7 @@
 
 _“Java is to JavaScript what car is to Carpet.” – Chris Heilmann_
 
-![](raoni_small.png)
+![Raoni Gillet](raoni_small.png)
 
 ## Me, in one sentence
 

@@ -7,13 +7,9 @@ _“Java is to JavaScript what car is to Carpet.” – Chris Heilmann_
 
 ## Me, the Linux fan
 
-| Tables        | Are           |
-| ------------- |:-------------:|
-| Birthday        | 13/06 |
-| Favorite Color :| Red      |
-| Favorite Food : | Pizzas      |
-| Pinneapple on pizza: Yes/No : | No ❎|
-
+| Birthday | Favorite Color | Favorite Food | Pinneapple on pizza |
+| :-------------: |:-------------:| :-----------: |:-------------:|
+| 13/06 | Red | Pizzas | No ❎ |
 
 ## Hobbies
 
